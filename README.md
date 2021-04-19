@@ -2,5 +2,5 @@
 Reconocimiento facial con opencv
 
 ### Librerias usadas:
-imutils
-opencv-python
+- imutils
+- opencv-python
