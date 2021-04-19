@@ -1,6 +1,7 @@
 # ReconocimientoFacial_Python
-Reconocimiento facial con opencv
+Reconocimiento de rostros con python y openCV
 
-### Librerias usadas:
-- imutils
-- opencv-python
+### Librerias a instalar:
+- pip install imutils
+- pip install opencv-python
+- pip install opencv-contrib-python
